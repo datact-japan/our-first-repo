@@ -27,4 +27,16 @@
 
 `git status`
 
-`git commit -m "message" `
+`git commit -m "{message}" test.txt`
+
+`git status`
+
+`git add {test_add.txt}`
+
+`git status`
+
+`git push origin {}`
+
+## わかりやすいサイト
+- [かめさんブログ](https://datawokagaku.com/github_register/)
+- [サル先生のGit入門](https://backlog.com/ja/git-tutorial/)
